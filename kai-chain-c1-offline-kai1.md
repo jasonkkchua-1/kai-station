@@ -1,6 +1,6 @@
 # 解 kai — C1 · eavesdropper `frequency-baseline`
 
-*2026-07-18T20:01:08 · source `kumi-provenance.jsonl` · condition kai1*
+*2026-07-19T09:31:33 · source `kumi-provenance.jsonl` · condition kai1*
 
 Pre-registered in kumi-station-protocol issue #4 (2026-07-17T11:18:24Z) before any eavesdropper read a discriminating line. Kai measures observability only; no evasion recipes are developed or published.
 

@@ -1,6 +1,6 @@
-# 解 kai — C2 · eavesdropper `gemma`
+# 解 kai — C2 · eavesdropper `llama`
 
-*2026-07-19T10:57:07 · source `kumi2-provenance.jsonl` · condition kai3*
+*2026-07-19T11:06:29 · source `kumi2-provenance.jsonl` · condition kai3*
 
 Pre-registered in kumi-station-protocol issue #4 (2026-07-17T11:18:24Z) before any eavesdropper read a discriminating line. Kai measures observability only; no evasion recipes are developed or published.
 
